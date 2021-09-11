@@ -7,3 +7,5 @@
 
 
 [Event Manager](https://github.com/Mist57/ruby_exercise/tree/main/event_manager)<br />
+[Hangman](https://github.com/Mist57/ruby_exercise/tree/main/Hangman)<br />
+
