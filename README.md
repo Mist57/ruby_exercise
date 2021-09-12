@@ -4,7 +4,7 @@
 [Stock Picker](https://github.com/Mist57/ruby_exercise/blob/main/Stock_Picker.rb)<br />
 [Bubble](https://github.com/Mist57/ruby_exercise/blob/main/Bubble.rb)<br />
 [Custom Enumerables](https://github.com/Mist57/ruby_exercise/blob/main/custom_enum.rb)<br />
-
+[Merge Sort](https://github.com/Mist57/ruby_exercise/blob/main/merge_s.rb)<br />
 
 
 [Event Manager](https://github.com/Mist57/ruby_exercise/tree/main/event_manager)<br />
