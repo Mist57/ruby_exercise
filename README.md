@@ -5,8 +5,9 @@
 [Bubble](https://github.com/Mist57/ruby_exercise/blob/main/Bubble.rb)<br />
 [Custom Enumerables](https://github.com/Mist57/ruby_exercise/blob/main/custom_enum.rb)<br />
 [Merge Sort](https://github.com/Mist57/ruby_exercise/blob/main/merge_s.rb)<br />
+[Linked List](https://github.com/Mist57/ruby_exercise/tree/main/linked_list)<br />
 
-
+https://github.com/Mist57/ruby_exercise/tree/main/linked_list
 [Event Manager](https://github.com/Mist57/ruby_exercise/tree/main/event_manager)<br />
 [Hangman](https://github.com/Mist57/ruby_exercise/tree/main/Hangman)<br />
 
