@@ -7,6 +7,7 @@
 [Merge Sort](https://github.com/Mist57/ruby_exercise/blob/main/merge_s.rb)<br />
 [Linked List](https://github.com/Mist57/ruby_exercise/tree/main/linked_list)<br />
 [Balanced BST](https://github.com/Mist57/ruby_exercise/blob/main/balanced_bst.rb)<br />
+[Knights Travails](https://github.com/Mist57/ruby_exercise/blob/main/Knights.rb)<br />
 
 [Event Manager](https://github.com/Mist57/ruby_exercise/tree/main/event_manager)<br />
 [Hangman](https://github.com/Mist57/ruby_exercise/tree/main/Hangman)<br />
